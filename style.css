@@ -1,0 +1,155 @@
+@import url(https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap);
+*
+{
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  font-family: 'Poppins' , sans-serif;
+    background-image: url(https://static.vecteezy.com/ti/fotos-gratis/p1/3334890-desktop-source-code-and-wallpaper-by-coding-and-programming-gr%C3%A1tis-foto.jpg);
+  background-size: cover;
+}
+
+.conteudo
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 100vh;
+  max-width:400px;
+}
+
+h1 {
+  justify-content: absolute;
+  text-align: center;
+  font-size: 32px;
+  color: rgb(0, 255, 0);
+  background: none;
+  padding-bottom: 8px ;
+  letter-spacing: 2px;
+}
+
+.img0
+{
+  padding-bottom: 8px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+  max-width: 100vh;
+  max-height: 30vh;
+}
+.conteudo span
+{
+  font-size: 20px;
+  color: white;
+  background: none;
+  display: block;
+  justify-content: absolute;
+  padding-bottom: 8px ;
+  text-align: center;
+  font-weight: bold;
+}
+#main
+{ 
+  display: block;
+  border-bottom: 1px solid rgb(0, 255, 0);
+  color: rgb(0, 255, 0);
+  letter-spacing: 2px;
+  font-size: 24px;
+  padding-top: 18px;
+  font-weight: bold;
+}
+
+h2
+{ 
+  font-size: 24px;
+  background: none;
+  text-decoration: none;
+  text-align: center;
+  border-bottom: 1px solid rgb(0, 255, 0);
+  padding-top: 10px;
+  font-weight: bold; 
+  color: rgb(0, 255, 0);
+}
+
+#tec
+{
+  padding-top: 10px;
+}
+.exp
+{  
+  display: block;
+  padding: 8px;
+  border-bottom: 1px solid rgb(0, 255, 0);
+  text-align: center;
+}
+.lista
+{ 
+  background: none;
+  margin: 6px;
+}
+.lista ul li a
+{
+  color: white;
+  text-decoration: none;
+  font-size: 50px;
+  transition: all ease-in-out 250ms;
+  background: none;
+}
+
+.lista ul li {
+  margin: 6px;
+  list-style: none;
+  background: none;
+  display: inline-block;
+}
+
+.lista ul
+{
+  text-align: center;
+  background: none;
+}
+.lista ul li a img
+{
+  background: none;
+  max-width: 50px;
+}
+h3
+{
+  background: none;
+  text-align: center;
+  font-weight: bold;
+  font-size: 24px;
+  color: rgb(0, 255, 0);
+}
+.sobre
+{
+  display: block;
+  text-align: center;
+  border-bottom: 1px solid rgb(0, 255, 0);
+}
+.wpp
+{
+    bottom: 10px;
+    display: inline-block;
+    width: 80px;
+    height: 80px;
+    
+}
+.wpp:hover
+{
+      transform: translateY(-16px);
+      transition: 1.0s;
+}
+.email
+{
+  bottom: 10px;
+    display: inline-block;
+    width: 80px;
+    height: 80px;
+}
+.email:hover
+{
+  transform: translateY(-16px);
+  transition: 1.0s;
+}
